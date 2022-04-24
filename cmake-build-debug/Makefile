@@ -129,6 +129,78 @@ learning_c__/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/learning_c__.dir/build.make CMakeFiles/learning_c__.dir/build
 .PHONY : learning_c__/fast
 
+2.1/myfirst.o: 2.1/myfirst.cpp.o
+.PHONY : 2.1/myfirst.o
+
+# target to build an object file
+2.1/myfirst.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/learning_c__.dir/build.make CMakeFiles/learning_c__.dir/2.1/myfirst.cpp.o
+.PHONY : 2.1/myfirst.cpp.o
+
+2.1/myfirst.i: 2.1/myfirst.cpp.i
+.PHONY : 2.1/myfirst.i
+
+# target to preprocess a source file
+2.1/myfirst.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/learning_c__.dir/build.make CMakeFiles/learning_c__.dir/2.1/myfirst.cpp.i
+.PHONY : 2.1/myfirst.cpp.i
+
+2.1/myfirst.s: 2.1/myfirst.cpp.s
+.PHONY : 2.1/myfirst.s
+
+# target to generate assembly for a file
+2.1/myfirst.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/learning_c__.dir/build.make CMakeFiles/learning_c__.dir/2.1/myfirst.cpp.s
+.PHONY : 2.1/myfirst.cpp.s
+
+2.4/ourfunc.o: 2.4/ourfunc.cpp.o
+.PHONY : 2.4/ourfunc.o
+
+# target to build an object file
+2.4/ourfunc.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/learning_c__.dir/build.make CMakeFiles/learning_c__.dir/2.4/ourfunc.cpp.o
+.PHONY : 2.4/ourfunc.cpp.o
+
+2.4/ourfunc.i: 2.4/ourfunc.cpp.i
+.PHONY : 2.4/ourfunc.i
+
+# target to preprocess a source file
+2.4/ourfunc.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/learning_c__.dir/build.make CMakeFiles/learning_c__.dir/2.4/ourfunc.cpp.i
+.PHONY : 2.4/ourfunc.cpp.i
+
+2.4/ourfunc.s: 2.4/ourfunc.cpp.s
+.PHONY : 2.4/ourfunc.s
+
+# target to generate assembly for a file
+2.4/ourfunc.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/learning_c__.dir/build.make CMakeFiles/learning_c__.dir/2.4/ourfunc.cpp.s
+.PHONY : 2.4/ourfunc.cpp.s
+
+2.7/func.o: 2.7/func.cpp.o
+.PHONY : 2.7/func.o
+
+# target to build an object file
+2.7/func.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/learning_c__.dir/build.make CMakeFiles/learning_c__.dir/2.7/func.cpp.o
+.PHONY : 2.7/func.cpp.o
+
+2.7/func.i: 2.7/func.cpp.i
+.PHONY : 2.7/func.i
+
+# target to preprocess a source file
+2.7/func.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/learning_c__.dir/build.make CMakeFiles/learning_c__.dir/2.7/func.cpp.i
+.PHONY : 2.7/func.cpp.i
+
+2.7/func.s: 2.7/func.cpp.s
+.PHONY : 2.7/func.s
+
+# target to generate assembly for a file
+2.7/func.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/learning_c__.dir/build.make CMakeFiles/learning_c__.dir/2.7/func.cpp.s
+.PHONY : 2.7/func.cpp.s
+
 main.o: main.cpp.o
 .PHONY : main.o
 
@@ -162,6 +234,15 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... learning_c__"
+	@echo "... 2.1/myfirst.o"
+	@echo "... 2.1/myfirst.i"
+	@echo "... 2.1/myfirst.s"
+	@echo "... 2.4/ourfunc.o"
+	@echo "... 2.4/ourfunc.i"
+	@echo "... 2.4/ourfunc.s"
+	@echo "... 2.7/func.o"
+	@echo "... 2.7/func.i"
+	@echo "... 2.7/func.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

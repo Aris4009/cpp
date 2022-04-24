@@ -80,6 +80,15 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/aris/CLionProjects/learning_c++/2.1/myfirst.cpp">
+			<Option target="learning_c__"/>
+		</Unit>
+		<Unit filename="/Users/aris/CLionProjects/learning_c++/2.4/ourfunc.cpp">
+			<Option target="learning_c__"/>
+		</Unit>
+		<Unit filename="/Users/aris/CLionProjects/learning_c++/2.7/func.cpp">
+			<Option target="learning_c__"/>
+		</Unit>
 		<Unit filename="/Users/aris/CLionProjects/learning_c++/main.cpp">
 			<Option target="learning_c__"/>
 		</Unit>

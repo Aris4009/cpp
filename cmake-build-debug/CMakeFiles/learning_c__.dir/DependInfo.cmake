@@ -8,6 +8,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "/Users/aris/CLionProjects/learning_c++/2.1/myfirst.cpp" "/Users/aris/CLionProjects/learning_c++/cmake-build-debug/CMakeFiles/learning_c__.dir/2.1/myfirst.cpp.o"
+  "/Users/aris/CLionProjects/learning_c++/2.4/ourfunc.cpp" "/Users/aris/CLionProjects/learning_c++/cmake-build-debug/CMakeFiles/learning_c__.dir/2.4/ourfunc.cpp.o"
+  "/Users/aris/CLionProjects/learning_c++/2.7/func.cpp" "/Users/aris/CLionProjects/learning_c++/cmake-build-debug/CMakeFiles/learning_c__.dir/2.7/func.cpp.o"
   "/Users/aris/CLionProjects/learning_c++/main.cpp" "/Users/aris/CLionProjects/learning_c++/cmake-build-debug/CMakeFiles/learning_c__.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")

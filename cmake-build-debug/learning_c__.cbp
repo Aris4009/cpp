@@ -80,13 +80,16 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/aris/CLionProjects/learning_c++/2.1/myfirst.cpp">
+		<Unit filename="/Users/aris/CLionProjects/learning_c++/2/2.1/myfirst.cpp">
 			<Option target="learning_c__"/>
 		</Unit>
-		<Unit filename="/Users/aris/CLionProjects/learning_c++/2.4/ourfunc.cpp">
+		<Unit filename="/Users/aris/CLionProjects/learning_c++/2/2.4/ourfunc.cpp">
 			<Option target="learning_c__"/>
 		</Unit>
-		<Unit filename="/Users/aris/CLionProjects/learning_c++/2.7/func.cpp">
+		<Unit filename="/Users/aris/CLionProjects/learning_c++/2/2.7/func.cpp">
+			<Option target="learning_c__"/>
+		</Unit>
+		<Unit filename="/Users/aris/CLionProjects/learning_c++/3/3.1/limit.cpp">
 			<Option target="learning_c__"/>
 		</Unit>
 		<Unit filename="/Users/aris/CLionProjects/learning_c++/main.cpp">

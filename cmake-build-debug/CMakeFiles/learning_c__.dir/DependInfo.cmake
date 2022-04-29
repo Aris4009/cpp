@@ -11,7 +11,9 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/aris/CLionProjects/learning_c++/2/2.1/myfirst.cpp" "/Users/aris/CLionProjects/learning_c++/cmake-build-debug/CMakeFiles/learning_c__.dir/2/2.1/myfirst.cpp.o"
   "/Users/aris/CLionProjects/learning_c++/2/2.4/ourfunc.cpp" "/Users/aris/CLionProjects/learning_c++/cmake-build-debug/CMakeFiles/learning_c__.dir/2/2.4/ourfunc.cpp.o"
   "/Users/aris/CLionProjects/learning_c++/2/2.7/func.cpp" "/Users/aris/CLionProjects/learning_c++/cmake-build-debug/CMakeFiles/learning_c__.dir/2/2.7/func.cpp.o"
-  "/Users/aris/CLionProjects/learning_c++/3/3.1/limit.cpp" "/Users/aris/CLionProjects/learning_c++/cmake-build-debug/CMakeFiles/learning_c__.dir/3/3.1/limit.cpp.o"
+  "/Users/aris/CLionProjects/learning_c++/3/3.1/limits.cpp" "/Users/aris/CLionProjects/learning_c++/cmake-build-debug/CMakeFiles/learning_c__.dir/3/3.1/limits.cpp.o"
+  "/Users/aris/CLionProjects/learning_c++/4/4.3/strtype.cpp" "/Users/aris/CLionProjects/learning_c++/cmake-build-debug/CMakeFiles/learning_c__.dir/4/4.3/strtype.cpp.o"
+  "/Users/aris/CLionProjects/learning_c++/4/4.7/address.cpp" "/Users/aris/CLionProjects/learning_c++/cmake-build-debug/CMakeFiles/learning_c__.dir/4/4.7/address.cpp.o"
   "/Users/aris/CLionProjects/learning_c++/main.cpp" "/Users/aris/CLionProjects/learning_c++/cmake-build-debug/CMakeFiles/learning_c__.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")

@@ -3,6 +3,7 @@
 //
 #include "iostream"
 #include "climits"
+#include "string"
 
 int main() {
     using namespace std;
@@ -11,10 +12,12 @@ int main() {
     long n_long = LONG_MAX;
     long long n_llong = LONG_LONG_MAX;
 
-    cout << "int is " << sizeof(int) << "bytes." << endl;
-    cout << "short is " << sizeof(short) << "bytes." << endl;
-    cout << "long is " << sizeof(long) << "bytes." << endl;
-    cout << "long long is " << sizeof(long long) << "bytes." << endl;
+    cout << "int is " << sizeof(int) << " bytes." << endl;
+    cout << "short is " << sizeof(short) << " bytes." << endl;
+    cout << "long is " << sizeof(long) << " bytes." << endl;
+    cout << "long long is " << sizeof(long long) << " bytes." << endl;
+    cout << "char size is " << sizeof('A') << " bytes." << endl;
+    cout << "string size is " << sizeof("我") << " bytes." << endl;
 
     cout << "Max value:" << endl;
     cout << "int:" << n_int << endl;

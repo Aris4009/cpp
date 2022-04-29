@@ -201,29 +201,77 @@ learning_c__/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/learning_c__.dir/build.make CMakeFiles/learning_c__.dir/2/2.7/func.cpp.s
 .PHONY : 2/2.7/func.cpp.s
 
-3/3.1/limit.o: 3/3.1/limit.cpp.o
-.PHONY : 3/3.1/limit.o
+3/3.1/limits.o: 3/3.1/limits.cpp.o
+.PHONY : 3/3.1/limits.o
 
 # target to build an object file
-3/3.1/limit.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/learning_c__.dir/build.make CMakeFiles/learning_c__.dir/3/3.1/limit.cpp.o
-.PHONY : 3/3.1/limit.cpp.o
+3/3.1/limits.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/learning_c__.dir/build.make CMakeFiles/learning_c__.dir/3/3.1/limits.cpp.o
+.PHONY : 3/3.1/limits.cpp.o
 
-3/3.1/limit.i: 3/3.1/limit.cpp.i
-.PHONY : 3/3.1/limit.i
+3/3.1/limits.i: 3/3.1/limits.cpp.i
+.PHONY : 3/3.1/limits.i
 
 # target to preprocess a source file
-3/3.1/limit.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/learning_c__.dir/build.make CMakeFiles/learning_c__.dir/3/3.1/limit.cpp.i
-.PHONY : 3/3.1/limit.cpp.i
+3/3.1/limits.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/learning_c__.dir/build.make CMakeFiles/learning_c__.dir/3/3.1/limits.cpp.i
+.PHONY : 3/3.1/limits.cpp.i
 
-3/3.1/limit.s: 3/3.1/limit.cpp.s
-.PHONY : 3/3.1/limit.s
+3/3.1/limits.s: 3/3.1/limits.cpp.s
+.PHONY : 3/3.1/limits.s
 
 # target to generate assembly for a file
-3/3.1/limit.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/learning_c__.dir/build.make CMakeFiles/learning_c__.dir/3/3.1/limit.cpp.s
-.PHONY : 3/3.1/limit.cpp.s
+3/3.1/limits.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/learning_c__.dir/build.make CMakeFiles/learning_c__.dir/3/3.1/limits.cpp.s
+.PHONY : 3/3.1/limits.cpp.s
+
+4/4.3/strtype.o: 4/4.3/strtype.cpp.o
+.PHONY : 4/4.3/strtype.o
+
+# target to build an object file
+4/4.3/strtype.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/learning_c__.dir/build.make CMakeFiles/learning_c__.dir/4/4.3/strtype.cpp.o
+.PHONY : 4/4.3/strtype.cpp.o
+
+4/4.3/strtype.i: 4/4.3/strtype.cpp.i
+.PHONY : 4/4.3/strtype.i
+
+# target to preprocess a source file
+4/4.3/strtype.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/learning_c__.dir/build.make CMakeFiles/learning_c__.dir/4/4.3/strtype.cpp.i
+.PHONY : 4/4.3/strtype.cpp.i
+
+4/4.3/strtype.s: 4/4.3/strtype.cpp.s
+.PHONY : 4/4.3/strtype.s
+
+# target to generate assembly for a file
+4/4.3/strtype.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/learning_c__.dir/build.make CMakeFiles/learning_c__.dir/4/4.3/strtype.cpp.s
+.PHONY : 4/4.3/strtype.cpp.s
+
+4/4.7/address.o: 4/4.7/address.cpp.o
+.PHONY : 4/4.7/address.o
+
+# target to build an object file
+4/4.7/address.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/learning_c__.dir/build.make CMakeFiles/learning_c__.dir/4/4.7/address.cpp.o
+.PHONY : 4/4.7/address.cpp.o
+
+4/4.7/address.i: 4/4.7/address.cpp.i
+.PHONY : 4/4.7/address.i
+
+# target to preprocess a source file
+4/4.7/address.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/learning_c__.dir/build.make CMakeFiles/learning_c__.dir/4/4.7/address.cpp.i
+.PHONY : 4/4.7/address.cpp.i
+
+4/4.7/address.s: 4/4.7/address.cpp.s
+.PHONY : 4/4.7/address.s
+
+# target to generate assembly for a file
+4/4.7/address.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/learning_c__.dir/build.make CMakeFiles/learning_c__.dir/4/4.7/address.cpp.s
+.PHONY : 4/4.7/address.cpp.s
 
 main.o: main.cpp.o
 .PHONY : main.o
@@ -267,9 +315,15 @@ help:
 	@echo "... 2/2.7/func.o"
 	@echo "... 2/2.7/func.i"
 	@echo "... 2/2.7/func.s"
-	@echo "... 3/3.1/limit.o"
-	@echo "... 3/3.1/limit.i"
-	@echo "... 3/3.1/limit.s"
+	@echo "... 3/3.1/limits.o"
+	@echo "... 3/3.1/limits.i"
+	@echo "... 3/3.1/limits.s"
+	@echo "... 4/4.3/strtype.o"
+	@echo "... 4/4.3/strtype.i"
+	@echo "... 4/4.3/strtype.s"
+	@echo "... 4/4.7/address.o"
+	@echo "... 4/4.7/address.i"
+	@echo "... 4/4.7/address.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

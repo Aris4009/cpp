@@ -118,18 +118,44 @@ CMakeFiles/learning_c__.dir/2/2.7/func.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/learning_c__.dir/2/2.7/func.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/aris/CLionProjects/learning_c++/2/2.7/func.cpp -o CMakeFiles/learning_c__.dir/2/2.7/func.cpp.s
 
-CMakeFiles/learning_c__.dir/3/3.1/limit.cpp.o: CMakeFiles/learning_c__.dir/flags.make
-CMakeFiles/learning_c__.dir/3/3.1/limit.cpp.o: ../3/3.1/limit.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/aris/CLionProjects/learning_c++/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/learning_c__.dir/3/3.1/limit.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/learning_c__.dir/3/3.1/limit.cpp.o -c /Users/aris/CLionProjects/learning_c++/3/3.1/limit.cpp
+CMakeFiles/learning_c__.dir/3/3.1/limits.cpp.o: CMakeFiles/learning_c__.dir/flags.make
+CMakeFiles/learning_c__.dir/3/3.1/limits.cpp.o: ../3/3.1/limits.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/aris/CLionProjects/learning_c++/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/learning_c__.dir/3/3.1/limits.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/learning_c__.dir/3/3.1/limits.cpp.o -c /Users/aris/CLionProjects/learning_c++/3/3.1/limits.cpp
 
-CMakeFiles/learning_c__.dir/3/3.1/limit.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/learning_c__.dir/3/3.1/limit.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/aris/CLionProjects/learning_c++/3/3.1/limit.cpp > CMakeFiles/learning_c__.dir/3/3.1/limit.cpp.i
+CMakeFiles/learning_c__.dir/3/3.1/limits.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/learning_c__.dir/3/3.1/limits.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/aris/CLionProjects/learning_c++/3/3.1/limits.cpp > CMakeFiles/learning_c__.dir/3/3.1/limits.cpp.i
 
-CMakeFiles/learning_c__.dir/3/3.1/limit.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/learning_c__.dir/3/3.1/limit.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/aris/CLionProjects/learning_c++/3/3.1/limit.cpp -o CMakeFiles/learning_c__.dir/3/3.1/limit.cpp.s
+CMakeFiles/learning_c__.dir/3/3.1/limits.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/learning_c__.dir/3/3.1/limits.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/aris/CLionProjects/learning_c++/3/3.1/limits.cpp -o CMakeFiles/learning_c__.dir/3/3.1/limits.cpp.s
+
+CMakeFiles/learning_c__.dir/4/4.3/strtype.cpp.o: CMakeFiles/learning_c__.dir/flags.make
+CMakeFiles/learning_c__.dir/4/4.3/strtype.cpp.o: ../4/4.3/strtype.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/aris/CLionProjects/learning_c++/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/learning_c__.dir/4/4.3/strtype.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/learning_c__.dir/4/4.3/strtype.cpp.o -c /Users/aris/CLionProjects/learning_c++/4/4.3/strtype.cpp
+
+CMakeFiles/learning_c__.dir/4/4.3/strtype.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/learning_c__.dir/4/4.3/strtype.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/aris/CLionProjects/learning_c++/4/4.3/strtype.cpp > CMakeFiles/learning_c__.dir/4/4.3/strtype.cpp.i
+
+CMakeFiles/learning_c__.dir/4/4.3/strtype.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/learning_c__.dir/4/4.3/strtype.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/aris/CLionProjects/learning_c++/4/4.3/strtype.cpp -o CMakeFiles/learning_c__.dir/4/4.3/strtype.cpp.s
+
+CMakeFiles/learning_c__.dir/4/4.7/address.cpp.o: CMakeFiles/learning_c__.dir/flags.make
+CMakeFiles/learning_c__.dir/4/4.7/address.cpp.o: ../4/4.7/address.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/aris/CLionProjects/learning_c++/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/learning_c__.dir/4/4.7/address.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/learning_c__.dir/4/4.7/address.cpp.o -c /Users/aris/CLionProjects/learning_c++/4/4.7/address.cpp
+
+CMakeFiles/learning_c__.dir/4/4.7/address.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/learning_c__.dir/4/4.7/address.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/aris/CLionProjects/learning_c++/4/4.7/address.cpp > CMakeFiles/learning_c__.dir/4/4.7/address.cpp.i
+
+CMakeFiles/learning_c__.dir/4/4.7/address.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/learning_c__.dir/4/4.7/address.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/aris/CLionProjects/learning_c++/4/4.7/address.cpp -o CMakeFiles/learning_c__.dir/4/4.7/address.cpp.s
 
 # Object files for target learning_c__
 learning_c___OBJECTS = \
@@ -137,7 +163,9 @@ learning_c___OBJECTS = \
 "CMakeFiles/learning_c__.dir/2/2.1/myfirst.cpp.o" \
 "CMakeFiles/learning_c__.dir/2/2.4/ourfunc.cpp.o" \
 "CMakeFiles/learning_c__.dir/2/2.7/func.cpp.o" \
-"CMakeFiles/learning_c__.dir/3/3.1/limit.cpp.o"
+"CMakeFiles/learning_c__.dir/3/3.1/limits.cpp.o" \
+"CMakeFiles/learning_c__.dir/4/4.3/strtype.cpp.o" \
+"CMakeFiles/learning_c__.dir/4/4.7/address.cpp.o"
 
 # External object files for target learning_c__
 learning_c___EXTERNAL_OBJECTS =
@@ -146,10 +174,12 @@ learning_c__: CMakeFiles/learning_c__.dir/main.cpp.o
 learning_c__: CMakeFiles/learning_c__.dir/2/2.1/myfirst.cpp.o
 learning_c__: CMakeFiles/learning_c__.dir/2/2.4/ourfunc.cpp.o
 learning_c__: CMakeFiles/learning_c__.dir/2/2.7/func.cpp.o
-learning_c__: CMakeFiles/learning_c__.dir/3/3.1/limit.cpp.o
+learning_c__: CMakeFiles/learning_c__.dir/3/3.1/limits.cpp.o
+learning_c__: CMakeFiles/learning_c__.dir/4/4.3/strtype.cpp.o
+learning_c__: CMakeFiles/learning_c__.dir/4/4.7/address.cpp.o
 learning_c__: CMakeFiles/learning_c__.dir/build.make
 learning_c__: CMakeFiles/learning_c__.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/aris/CLionProjects/learning_c++/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable learning_c__"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/aris/CLionProjects/learning_c++/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable learning_c__"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/learning_c__.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

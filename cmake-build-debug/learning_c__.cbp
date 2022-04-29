@@ -89,7 +89,13 @@
 		<Unit filename="/Users/aris/CLionProjects/learning_c++/2/2.7/func.cpp">
 			<Option target="learning_c__"/>
 		</Unit>
-		<Unit filename="/Users/aris/CLionProjects/learning_c++/3/3.1/limit.cpp">
+		<Unit filename="/Users/aris/CLionProjects/learning_c++/3/3.1/limits.cpp">
+			<Option target="learning_c__"/>
+		</Unit>
+		<Unit filename="/Users/aris/CLionProjects/learning_c++/4/4.3/strtype.cpp">
+			<Option target="learning_c__"/>
+		</Unit>
+		<Unit filename="/Users/aris/CLionProjects/learning_c++/4/4.7/address.cpp">
 			<Option target="learning_c__"/>
 		</Unit>
 		<Unit filename="/Users/aris/CLionProjects/learning_c++/main.cpp">
